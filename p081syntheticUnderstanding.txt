@@ -1,0 +1,21 @@
+１、これまでの2つの章で使用したJavaのキーワードを列挙し、それぞれの意味を説明
+　　boolean     boolean型
+　　byte        byte型
+　　char        char型
+　　class	クラス定義
+　　double	double型
+　　float	float型
+　　int	        int型
+　　long	long型
+　　new	        オブジェクト生成演算子
+　　short	short型
+　　static	静的変数または静的メソッド
+
+
+２、Boolean、Character、Byte、Short、Integer、Long、Float、Doubleの各クラスの8個のオブジェクトを作成し、
+　　それらのオブジェクトにコマンドライン引数から取得した値をカプセル化するプログラム。
+　　各オブジェクトの文字列表現で表示しなさい。
+
+３、配列を作成し、それを5個のCharacterオブジェクトで初期化する。
+　　そのあと、StringBufferオブジェクトを作成し、その文字列バッファに配列要素を付加する。
+　　最後に文字列バッファを表示する。
